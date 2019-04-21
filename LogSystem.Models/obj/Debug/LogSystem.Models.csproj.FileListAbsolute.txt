@@ -1,0 +1,9 @@
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\bin\Debug\LogSystem.Models.dll
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\bin\Debug\LogSystem.Models.pdb
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\bin\Debug\LogSystem.Models.Abstract.dll
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\bin\Debug\LogSystem.Models.Abstract.pdb
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\obj\Debug\LogSystem.Models.csprojAssemblyReference.cache
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\obj\Debug\LogSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\obj\Debug\LogSystem.Models.csproj.CopyComplete
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\obj\Debug\LogSystem.Models.dll
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models\obj\Debug\LogSystem.Models.pdb

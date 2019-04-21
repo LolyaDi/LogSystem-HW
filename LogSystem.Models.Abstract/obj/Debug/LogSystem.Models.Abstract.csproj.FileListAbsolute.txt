@@ -1,0 +1,5 @@
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models.Abstract\bin\Debug\LogSystem.Models.Abstract.dll
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models.Abstract\bin\Debug\LogSystem.Models.Abstract.pdb
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models.Abstract\obj\Debug\LogSystem.Models.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models.Abstract\obj\Debug\LogSystem.Models.Abstract.dll
+C:\Users\ww\source\repos\LogSystem\LogSystem.Models.Abstract\obj\Debug\LogSystem.Models.Abstract.pdb
